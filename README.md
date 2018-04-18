@@ -3,4 +3,4 @@ A demonstrative repo for instructional purposes
 
 
 ## FACT
-Cheetahs are fast.
+Cheetahs are very, very, very fast.
